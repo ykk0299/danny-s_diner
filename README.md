@@ -15,4 +15,5 @@ He plans on using these insights to help him decide whether he should expand the
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
 # Data
-![download](https://github.com/ykk0299/danny-s_diner/assets/131330011/736e1f80-b91f-4967-8e1d-4a466d4a3fb8)
+https://github.com/ykk0299/danny-s_diner/blob/main/er_diagram.png
+
